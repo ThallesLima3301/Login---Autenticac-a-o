@@ -19,7 +19,7 @@ Este é um exemplo simples de um sistema de autenticação e autorização const
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `git clone [https://github.com/ThallesLima3301/](https://github.com/ThallesLima3301/Login---Autenticac-a-o)`
 2. Instale as dependências: `npm install`
 3. Configure as variáveis de ambiente em um arquivo `.env`
 
